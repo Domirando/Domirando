@@ -2,7 +2,7 @@
 
 <img src="./img/github-profile.png" width="100%" alt="">
 
-#### Contact with me via:
+####  Contact with me via:
 - [LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/Maftuna_Vohidjonovna) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
 
 ## 🔨 Languages and Tools:
