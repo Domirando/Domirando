@@ -2,7 +2,7 @@
 
 <img src="./img/github-profile.png" width="100%" alt="">
 
-- 🔭 I’m currently working on project
+- 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Python
 - 💬 Feel free to ask me about any question related to IT 
 
