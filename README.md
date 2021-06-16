@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="./img/github-profile.png" width="100%" alt="">
 
@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on team of Next, React, ...
 - ⚡️ My mission: By every step I am doing I want to make the future better! Help people, and share knowledge!
 
-####  Contact with me via:
+##  Contact with me via:
+
 - [LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/Maftuna_Vohidjonovna) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
 
 ## 🔨 Languages and Tools:
