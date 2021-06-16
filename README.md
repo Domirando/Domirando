@@ -28,7 +28,7 @@
 <br />
 <br />
 
-### ⚜ Maftuna's github stats
+## ⚜ Maftuna's github stats:
 
 ![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vohidjonovna&show_icons=true&theme=tokyonight)
 
