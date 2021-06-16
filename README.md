@@ -28,6 +28,7 @@
 <br />
 <br />
 
-![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vohidjonovna&show_icons=true&theme=tokyonight
+[![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vohidjonovna)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vohidjonovna&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
