@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Python
 - 💬 Feel free to ask me about any question related to IT 
+- 👯 I’m looking to collaborate on team of Next, React, ...
+- ⚡️ My mission: By every step I am doing I want to make the future better! Help people, and share knowledge!
 
 ####  Contact with me via:
 - [LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/Maftuna_Vohidjonovna) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
