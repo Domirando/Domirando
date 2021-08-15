@@ -10,7 +10,7 @@
 
 ##  Contact with me via:
 
-[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/demaisie) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
+[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
 
 ## 🔨 Languages and Tools:
 
@@ -31,6 +31,6 @@
 
 ## ⚜ Maftuna's github stats:
 
-![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vohidjonovna&show_icons=true&theme=tokyonight&count_private=true)
+![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisieDev&show_icons=true&theme=tokyonight&count_private=true)
 
 
