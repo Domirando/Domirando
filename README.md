@@ -10,7 +10,7 @@
 
 ##  Contact with me via:
 
-[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="vohidjonovnamaftuna@gmail.com">Mail</a>
+[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="maisiedev@gmail.com">Mail</a>
 
 ## 🔨 Languages and Tools:
 
