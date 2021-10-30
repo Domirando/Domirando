@@ -29,8 +29,8 @@
 <br />
 <br />
 
-## ⚜ Maftuna's github stats:
+## ⚜ Maisie's github stats:
 
-![Maftuna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisieDev&show_icons=true&theme=tokyonight&count_private=true)
+![Maisie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=merolinda&show_icons=true&theme=tokyonight&count_private=true)
 
 
