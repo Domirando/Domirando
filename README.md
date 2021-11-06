@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="./img/github-profile.png" width="100%" alt="">
+<!-- <img src="./img/github-profile.png" width="100%" alt=""> -->
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Python
