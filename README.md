@@ -1,13 +1,12 @@
-# Hi there 👋
+# Maisie Wutsimon
 
-<img src="./img/photo.png" width="100%" alt="">
+<img src="./img/photo.png" width="50%" height="60%" alt="">
 
-- 🔭 I’m currently working on React project
-- 🌱 I’m currently learning Python
-- 💬 Feel free to ask me about any question related to IT 
-- 👯 I’m looking to collaborate on team of Next, React, ...
-- ⚡️ My mission: By every step I am doing I want to make the future better! Help people, and share knowledge!
-
+- 🔭 Currently working as a freelancer
+- 🌱 Currently learning Python
+- 💬 Feel free to give any question related to IT 
+- 👯 Looking to collaborate on team of Next, React, ...
+- ⚡️ Mission: By every step doind and wanna improve and develop...
 ##  Contact with me via:
 
 [LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="maisiedev@gmail.com">Mail</a>
