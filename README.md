@@ -24,7 +24,7 @@
 <img align="left" alt="Powershell" width="26px" src="./img/powershell.svg" />
 <img align="left" alt="Git" width="26px" src="./img/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="./img/github.svg" />
-
+<img align="left" alt="Linux" width="26px" src="./img/linux.png" />
 <br />
 <br />
 
