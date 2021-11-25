@@ -28,8 +28,8 @@
 <br />
 <br />
 
-## ⚜ Maisie's github stats:
+## ⚜ Merolinda's github stats:
 
-![Maisie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=merolinda&show_icons=true&theme=tokyonight&count_private=true)
+![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=merolinda&show_icons=true&theme=tokyonight&count_private=true)
 
 
