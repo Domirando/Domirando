@@ -7,7 +7,8 @@
 - 💬 Feel free to give any question related to IT <br>
 - 👯 Looking to collaborate on team of Next, React, ... <br>
 - ⚡️ Mission: By every step doind and wanna improve and develop... 
-##  Contact with me via:
+
+## Contact with me via:
 
 [LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="maisiedev@gmail.com">Mail</a>
 
@@ -28,8 +29,8 @@
 <br />
 <br />
 
-## ⚜ Merolinda's github stats:
+## ⚜ Domirando's github stats:
 
-![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=merolinda&show_icons=true&theme=tokyonight&count_private=true)
+![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=domirando&show_icons=true&theme=tokyonight&count_private=true)
 
 
