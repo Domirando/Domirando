@@ -10,7 +10,7 @@
 
 ## Contact with me via:
 
-[<img align="left" alt="Linkedin" width="36px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) [<img align="left" alt="Telegram" width="34px" src="./img/Telegram.png" />](https://t.me/domirando) [<img align="left" alt="Gmail" width="36px" src="./img/g_mail.png" />](Gmail)<br><br>
+[<img align="left" alt="Linkedin" width="36px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) [<img align="left" alt="Telegram" width="34px" src="./img/Telegram.png" />](https://t.me/domirando) [<img align="left" alt="Gmail" width="36px" src="./img/g_mail.png" />](maisiedev@gmail.com)<br><br>
 ## 🔨 Languages and Tools:
 
 <img align="left" alt="HTML" width="26px" src="./img/html.svg" />
