@@ -10,13 +10,15 @@
 
 ## Contact with me via:
 
-[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna-a38141211/) • [Telegram](https://t.me/ProgrammerGirlX) • <a href="maisiedev@gmail.com">Mail</a>
+[LinkedIn](https://www.linkedin.com/in/maftuna-vohidjonovna) • [Telegram](https://t.me/domirando) • <a href="maisiedev@gmail.com">Mail</a>
 
 ## 🔨 Languages and Tools:
 
 <img align="left" alt="HTML" width="26px" src="./img/html.svg" />
 <img align="left" alt="CSS" width="26px" src="./img/css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
+<img align="left" alt="ReactJS" width="26px" src="./img/index.png" />
+<img align="left" alt="TailwindCSS" width="26px" src="./img/tailwind.png" />
 <img align="left" alt="Java" width="26px" src="./img/java.svg" />
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgres.svg" />
