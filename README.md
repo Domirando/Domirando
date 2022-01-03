@@ -1,4 +1,4 @@
-<h1 align="center">Maisie Wutsimon</h1>
+<h1 align="center">Maftuna Vohidjonovna</h1>
 <p align="center">
   <img src="./img/photo.png" width="25%" height="15%" alt="">
 </p>
