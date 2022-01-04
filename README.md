@@ -29,6 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
 <img align="left" alt="Bootstrap" width="28px" src="./img/bootstrap.svg" />
 <img align="left" alt="TailwindCSS" width="26px" src="./img/tailwind.png" />
+<img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
 <img align="left" alt="ReactJS" width="26px" src="./img/react.svg" />
 <img align="left" alt="Java" width="26px" src="./img/java.svg" />
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" />
