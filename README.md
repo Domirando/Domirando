@@ -6,7 +6,7 @@
 - 🌱 Currently learning Python <br>
 - 💬 Feel free to give any question related to IT <br>
 - 👯 Looking to collaborate on team of Next, React, ... <br>
-- ⚡️ Mission: By every step doind and wanna improve and develop... 
+- ⚡️ Mission: By every step doing and wanna improve and develop... 
 
 ## 💬 Contact with me via:
 
