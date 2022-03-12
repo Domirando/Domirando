@@ -3,7 +3,7 @@
   <img src="./img/photo.png" width="25%" height="15%" alt="">
 </p>
 - 🔭 Currently working as a freelancer <br>
-- 🌱 Currently learning Python <br>
+- 🌱 Currently learning Computer Networking <br>
 - 💬 Feel free to give any question related to IT <br>
 - 👯 Looking to collaborate on team of Next, React, ... <br>
 - ⚡️ Mission: By every step doing and wanna improve and develop... 
