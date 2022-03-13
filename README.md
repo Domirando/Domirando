@@ -47,6 +47,6 @@
 
 ## ⚜ Domirando's github stats:
 
-![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=domirando&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=domirando&show_icons=true&theme=tokyonight&count_private=true)
 
 
