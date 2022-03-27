@@ -56,11 +56,9 @@ I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening 
 [<img align="left" alt="Twitter" width="32" src="./img/twitter-removebg-preview.png" />](https://twitter.com/vohidjonovna)<br><br>
 
 
-## ⚜ Domirando's github stats:
+## ⚜ Domirando's stats:
 
+<a href="https://app.daily.dev/Domirando"><img style="margin-right: 30px;" src="https://api.daily.dev/devcards/2d586e78897047628c541f0a9adefdf7.png?r=i5a" align="left" height="400" width="290" alt="Domirando's Dev Card"/></a>
 ![](https://github-readme-stats.vercel.app/api?username=domirando&show_icons=true&theme=tokyonight&count_private=true)
-
-
-
 
 
