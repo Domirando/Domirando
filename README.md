@@ -47,12 +47,12 @@ I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening 
 [<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/domirando) 
 [<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](maisiedev@gmail.com)<br><br>
 
-## ⚡️ Social Networks:
+## ⚡️ Follow me on social networks:
 [<img align="left" alt="Dribble" width="26px" src="./img/dribbble.png" />](https://dribbble.com/Maftuna_Vohidjonovna)
 [<img align="left" alt="Stack Exchange" width="32px" src="./img/stack-exchange-removebg-preview.png" />](https://stackexchange.com/users/20415591/maftuna)
 [<img align="left" alt="Medium" width="26px" src="./img/Medium.png" />](https://medium.com/@MaisieDev)
 [<img align="left" alt="Stack Overflow" width="24" src="./img/stack-overflow.svg" />](https://stackoverflow.com/users/14977873/maftuna)
-[<img align="left" alt="Telegram" width="26x" src="./img/Telegram.png" />](https://t.me/MaftunaVohidjonovna) 
+[<img align="left" alt="Telegram" width="26x" src="./img/Telegram.png" />](https://t.me/domirandos) 
 [<img align="left" alt="Twitter" width="32" src="./img/twitter-removebg-preview.png" />](https://twitter.com/vohidjonovna)<br><br>
 
 
