@@ -5,7 +5,7 @@
 
 <div>
     - 🔭 Currently working as a freelancer <br>
-    - 🌱 Currently learning Computer Networking <br>
+    - 🌱 Currently learning Data Vizualization and Django <br>
     - 💬 Feel free to give any question related to IT <br>
     - 👯 Looking to collaborate on team of NextJS, ReactJS, ... <br>
     - ⚡️ Mission: By every step doing and wanna improve and develop... 
