@@ -59,6 +59,5 @@ I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening 
 ## ⚜ Domirando's stats:
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Domirando/Domirando/blob/main/devcard.svg" height="400" width="290" alt="Domirando's Dev Card"/></a>
-![](https://github-readme-stats.vercel.app/api?username=domirando&show_icons=true&theme=tokyonight&count_private=true)
 
 
