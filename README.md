@@ -48,7 +48,7 @@ Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292
 ## 💬 Contact with me via:
 
 [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) 
-[<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/domirando) 
+[<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/domirandos) 
 [<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](maisiedev@gmail.com)<br><br>
 
 ## ⚡️ Follow me on social networks:
