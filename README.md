@@ -39,7 +39,11 @@
 
 ## Some Fun Facts about me:
 <img align="right" src="https://user-images.githubusercontent.com/72442735/159153936-a7d15a20-0d38-42fe-aa12-6fa6ca4b2fbc.gif"/></a>
-I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening musics, playing musical instruments and singing. On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like badminton, volleyball, basketball. You'll probably run into me at an event, but for now, follow me online or chat me at a virtual conference!
+I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening musics, playing musical instruments and singing. On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like badminton, volleyball, basketball. You'll probably run into me at an event, but for now, follow me online or chat me at a virtual conference!<br/><br/>
+
+Between don't forget to watch my speech and read my article about Quantum Computers and also sharing them with your friends 😉! <br/>
+Speech - <a href="https://youtu.be/zx6nZnJkYR4?si=Q-DCNG2sakugudD6">New age of computers - Quantum computers </a><br/>
+Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292/1301">Quantum Computers: Evaluating the Impact on Humanity and Our Readiness </a>
 <br/><br/><br/>
 ## 💬 Contact with me via:
 
