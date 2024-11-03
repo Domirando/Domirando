@@ -1,6 +1,6 @@
 <h1 align="center">Maftuna Vohidjonovna</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72442735/159153731-8e3af4b4-230e-4922-811b-65bb165230dc.png" alt="">
+  <img src="./img/wallpaper.jpg" alt="">
 </p>
 
 <div>
@@ -38,7 +38,7 @@
   
 
 ## Some Fun Facts about me:
-<img align="right" src="https://user-images.githubusercontent.com/72442735/159153936-a7d15a20-0d38-42fe-aa12-6fa6ca4b2fbc.gif"/></a>
+<img align="right" src="./img/gif1.gif" width="250"/></a>
 I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening musics, playing musical instruments and singing. On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like badminton, volleyball, basketball. You'll probably run into me at an event, but for now, follow me online or chat me at a virtual conference!<br/><br/>
 
 Between don't forget to watch my speech and read my article about Quantum Computers and also sharing them with your friends 😉! <br/>
