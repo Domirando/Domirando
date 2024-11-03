@@ -1,4 +1,4 @@
-<h1 align="center">Maftuna Vohidjonovna</h1>
+<h1 align="center">Domirando</h1>
 <p align="center">
   <img src="./img/wallpaper.jpg" alt="">
 </p>
