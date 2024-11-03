@@ -34,7 +34,7 @@
 <img align="left" alt="Linux" width="26px" src="./img/linux.png" />
 <br />
 <br />
-<div>
+
   
 
 ## Some Fun Facts about me:
