@@ -60,8 +60,9 @@ Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292
 [<img align="left" alt="Twitter" width="32" src="./img/twitter-removebg-preview.png" />](https://twitter.com/vohidjonovna)<br><br>
 
 
-## ⚜ Domirando's stats:
+[//]: # (## ⚜ Domirando's stats:)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Domirando/Domirando/blob/main/devcard.svg" height="400" width="290" alt="Domirando's Dev Card"/></a>
+[//]: # ()
+[//]: # (<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Domirando/Domirando/blob/main/devcard.svg" height="400" width="290" alt="Domirando's Dev Card"/></a>)
 
 
