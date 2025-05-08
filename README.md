@@ -46,19 +46,15 @@ Speech - <a href="https://youtu.be/zx6nZnJkYR4?si=Q-DCNG2sakugudD6">New age of c
 Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292/1301">Quantum Computers: Evaluating the Impact on Humanity and Our Readiness </a>
 <br/><br/><br/>
 ## 💬 Contact with me via:
-
 [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) 
-[<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/domirando) 
 [<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](maisiedev@gmail.com)<br><br>
 
 ## ⚡️ Follow me on social networks:
-[<img align="left" alt="Dribble" width="26px" src="./img/dribbble.png" />](https://dribbble.com/Maftuna_Vohidjonovna)
-[<img align="left" alt="Stack Exchange" width="32px" src="./img/stack-exchange-removebg-preview.png" />](https://stackexchange.com/users/20415591/maftuna)
-[<img align="left" alt="Medium" width="26px" src="./img/Medium.png" />](https://medium.com/@MaisieDev)
-[<img align="left" alt="Stack Overflow" width="24" src="./img/stack-overflow.svg" />](https://stackoverflow.com/users/14977873/maftuna)
+[<img align="left" alt="Medium" width="26px" src="./img/Medium.png" />](https://medium.com/@Domirando)
 [<img align="left" alt="Telegram" width="26x" src="./img/Telegram.png" />](https://t.me/domirandos) 
+[<img align="left" alt="Stack Overflow" width="24" src="./img/stack-overflow.svg" />](https://stackoverflow.com/users/14977873/maftuna)
+[<img align="left" alt="Dribble" width="26px" src="./img/dribbble.png" />](https://dribbble.com/Maftuna_Vohidjonovna)
 [<img align="left" alt="Twitter" width="32" src="./img/twitter-removebg-preview.png" />](https://twitter.com/vohidjonovna)<br><br>
-
 
 [//]: # (## ⚜ Domirando's stats:)
 
