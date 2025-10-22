@@ -43,7 +43,7 @@ I'm an organizer of events like Web Hackathon, meetings, etc.! I love listening 
 
 Between don't forget to watch my speech and read my article about Quantum Computers and also sharing them with your friends 😉! <br/>
 Speech - <a href="https://youtu.be/zx6nZnJkYR4?si=Q-DCNG2sakugudD6">New age of computers - Quantum computers </a><br/>
-Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292/1301">Quantum Computers: Evaluating the Impact on Humanity and Our Readiness </a>
+Article - <a href="https://medium.com/@Domirando/quantum-computers-evaluating-the-impact-on-humanity-and-our-readiness-1d6e20c120ed">Quantum Computers: Evaluating the Impact on Humanity and Our Readiness </a>
 <br/><br/><br/>
 ## 💬 Contact with me via:
 [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) 
