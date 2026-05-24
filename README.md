@@ -25,6 +25,6 @@ Article - <a href="https://thematicsjournals.in/index.php/tjas/article/view/1292
 <br/><br/><br/>
 ## 💬 Contact with me via:
 [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/maftuna-vohidjonovna) 
-[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](vohidjonovnamaftuna@gmail.com)<br><br>
+[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](mailto:vohidjonovnamaftuna@gmail.com)<br><br>
 
 
